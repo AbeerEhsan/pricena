@@ -1,0 +1,97 @@
+.skin-blue .main-header .navbar {
+    background-color: #52caff !important;
+    background-image: linear-gradient(to right, #38a7d8, #52caff);
+}
+
+.skin-blue .main-header .logo {
+    background-color: #52caff;
+}
+
+.btn-primary {
+    background-color: #52caff;
+    border-color: #52CAF3;
+    border: none;
+    border-radius: 30px !important;
+    padding: 8px 20px;
+    background-image: linear-gradient(to right, #38a7d8, #52caff);
+    transition: .3s all ease;
+}
+
+.btn-primary:hover {
+    background-color: #52caff;
+    border-color: #52caff;
+    background-image: linear-gradient(to left, #38a7d8, #52caff);
+    transition: .3s all ease;
+}
+
+.box.box-primary {
+    border-top-color: #52caff;
+    border-radius: 5px;
+    box-shadow: 0px 5px 6px 0px #0002;
+}
+
+.skin-blue .sidebar-menu>li.active>a,
+.skin-blue .sidebar-menu>li:hover>a {
+    border-right-color: #52caff !important;
+    background: #52caff;
+    background-image: linear-gradient(to right, #38a7d8, #52caff);
+}
+
+.skin-blue .sidebar-menu>li:hover>a,
+.skin-blue .sidebar-menu>li.active>a {
+    color: #fff;
+    /* background: #1e282c; */
+    border-left-color: #52caff;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+    background-color: #52CAFE !important;
+    border-color: #52caff !important;
+}
+
+.sidebar-mini.sidebar-collapse .sidebar-menu>li>.treeview-menu .active a,
+.skin-blue .sidebar-menu>li>.treeview-menu .active a {
+    color: #52caff;
+}
+
+.btn-primary:hover {
+    background-color: #52CAFE;
+    border-color: #52CAFE;
+    background-image: linear-gradient(to left, #38a7d8, #52CAFE);
+    transition: .3s all ease;
+    .skin-blue .treeview-
+}
+
+.sidebar-mini.sidebar-collapse .sidebar-menu>li>.treeview-menu a:hover,
+.skin-blue .sidebar-menu>li>.treeview-menu a:hover {
+    color: #52CAFE;
+}
+
+.skin-blue .main-header li.user-header {
+    background-color: #52CAFE;
+    background-image: linear-gradient(to right, #38a7d8, #52CAFE);
+}
+
+.skin-blue .main-header .logo:hover {
+    background-color: #52CAFE;
+}
+
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary.active:hover,
+.btn-primary:active.focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.open>.dropdown-toggle.btn-primary.focus,
+.open>.dropdown-toggle.btn-primary:focus,
+.open>.dropdown-toggle.btn-primary:hover {
+    color: #fff;
+    background-color: #52CAFE;
+    border-color: #52CAFE;
+    background-image: linear-gradient(to left, #38a7d8, #52CAFE);
+}

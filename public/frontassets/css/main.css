@@ -1,0 +1,54 @@
+.navbar-brand h3 {
+    color: #fff;
+    display: inline-block;
+}
+
+.navbar-brand .logo-img{
+    max-width: 80px;
+    max-height: 60px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.btn .btn-text{
+    vertical-align: middle;
+}
+
+.media-body{
+    text-align: right;
+}
+
+.ti-3x {
+    vertical-align: middle;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#appDiscover h2 ,
+#appDiscover h3,
+#appDiscover p {
+    text-align: right;
+}
+.perspective-phone img{
+    margin-left: auto;
+    display: block;
+}
+.social-icons {
+    text-align: left;
+}
+.card.pricing .card-head .price sub {
+    font-size: 40%;
+    color: #b3b3b3;
+}
+
+
+@media (min-width:992px){
+    .card.features {
+        min-height: 160px;
+    }
+    .perspective-phone {
+        margin-top: -190px;
+    }
+    .offset-lg-6 {
+        margin-right: 50%;
+    }
+}

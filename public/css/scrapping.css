@@ -1,0 +1,145 @@
+.suggesting-links {
+    flex: 1;
+    display: flex;
+}
+
+.suggesting-links li {
+    flex: 1;
+    margin: 5px 10px;
+}
+
+.suggesting-links li a {
+    color: #888;
+    display: block;
+    box-shadow: 0 5px 9px 0 #8884;
+    padding: 5px 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    transition: .4s;
+    transform: translateY(0);
+    border: 1px solid #eee;
+}
+
+.suggesting-links li a:hover {
+    box-shadow: 0 10px 9px 0 #8884;
+    background-color: #fff;
+    transform: translateY(-5px);
+}
+
+
+/* srarch bar */
+
+.input-group {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input-group {
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    padding: 3px 5px;
+}
+
+.input-group .form-control:first-child {
+    border-radius: 0 30px 30px 0;
+    border: none;
+}
+
+
+/* product */
+
+.header-hint {
+    text-align: right;
+    color: #999;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+
+.product {
+    padding-top: 0;
+}
+
+.product {
+    text-align: left;
+}
+
+.product h4 a {
+    color: #888;
+}
+
+.product img {
+    max-width: 100%;
+    margin: auto;
+    display: block;
+    max-height: 200px;
+    object-fit: contain;
+    width: 100%;
+}
+
+
+/* loader */
+
+#loader {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #0005;
+    z-index: 9990;
+    user-select: none;
+    display: flex;
+}
+
+#loader.hide {
+    display: none;
+}
+
+#loader .spinner {
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 50%;
+    border-top: 4px solid #52caff;
+    border-right: 4px solid #ccc;
+    border-bottom: 4px solid #ccc;
+    border-left: 4px solid #ccc;
+    animation: rotate .8s linear infinite;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.btn-primary {
+    background: #52caff;
+    transition: .2s;
+    box-shadow: 0 0 18px 0 #0004;
+}
+
+.btn-primary:hover,
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary.active:hover,
+.btn-primary:active.focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.open>.dropdown-toggle.btn-primary.focus,
+.open>.dropdown-toggle.btn-primary:focus,
+.open>.dropdown-toggle.btn-primary:hover {
+    background: #3ab2e6;
+    outline: none;
+}

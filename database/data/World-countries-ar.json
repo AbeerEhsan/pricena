@@ -1,0 +1,2502 @@
+[
+  {
+    "name": "Taiwan",
+    "official_name_ar": "تايون",
+    "official_name_en": "Taiwan",
+    "zipcode": "886",
+    "ISO3166Alpha2": "TW",
+    "countryCode": "TWN",
+    "ISO3166Numeric": "158",
+    "ArabicFormal": null
+  },
+  {
+    "name": "Afghanistan",
+    "official_name_ar": "أفغانستان",
+    "official_name_en": "Afghanistan",
+    "zipcode": "93",
+    "ISO3166Alpha2": "AF",
+    "countryCode": "AFG",
+    "ISO3166Numeric": "004",
+    "ArabicFormal": "جمهورية أفغانستان الإسلامية"
+  },
+  {
+    "name": "Albania",
+    "official_name_ar": "ألبانيا",
+    "official_name_en": "Albania",
+    "zipcode": "355",
+    "ISO3166Alpha2": "AL",
+    "countryCode": "ALB",
+    "ISO3166Numeric": "008",
+    "ArabicFormal": "جمهورية ألبانيا"
+  },
+  {
+    "name": "Algeria",
+    "official_name_ar": "الجزائر",
+    "official_name_en": "Algeria",
+    "zipcode": "213",
+    "ISO3166Alpha2": "DZ",
+    "countryCode": "DZA",
+    "ISO3166Numeric": "012",
+    "ArabicFormal": "الجمهورية الجزائرية الديمقراطية الشعبية"
+  },
+  {
+    "name": "American Samoa",
+    "official_name_ar": "ساموا الأمريكية",
+    "official_name_en": "American Samoa",
+    "zipcode": "1-684",
+    "ISO3166Alpha2": "AS",
+    "countryCode": "ASM",
+    "ISO3166Numeric": "016",
+    "ArabicFormal": "American Samoa"
+  },
+  {
+    "name": "Andorra",
+    "official_name_ar": "أندورا",
+    "official_name_en": "Andorra",
+    "zipcode": "376",
+    "ISO3166Alpha2": "AD",
+    "countryCode": "AND",
+    "ISO3166Numeric": "020",
+    "ArabicFormal": "إمارة أندورا"
+  },
+  {
+    "name": "Angola",
+    "official_name_ar": "أنغولا",
+    "official_name_en": "Angola",
+    "zipcode": "244",
+    "ISO3166Alpha2": "AO",
+    "countryCode": "AGO",
+    "ISO3166Numeric": "024",
+    "ArabicFormal": "جمهورية أنغولا"
+  },
+  {
+    "name": "Anguilla",
+    "official_name_ar": "أنغيلا",
+    "official_name_en": "Anguilla",
+    "zipcode": "1-264",
+    "ISO3166Alpha2": "AI",
+    "countryCode": "AIA",
+    "ISO3166Numeric": "660",
+    "ArabicFormal": "Anguilla"
+  },
+  {
+    "name": "Antarctica",
+    "official_name_ar": "أنتاركتيكا",
+    "official_name_en": "Antarctica",
+    "zipcode": "672",
+    "ISO3166Alpha2": "AQ",
+    "countryCode": "ATA",
+    "ISO3166Numeric": "010",
+    "ArabicFormal": "Antarctica"
+  },
+  {
+    "name": "Antigua & Barbuda",
+    "official_name_ar": "أنتيغوا وبربودا",
+    "official_name_en": "Antigua and Barbuda",
+    "zipcode": "1-268",
+    "ISO3166Alpha2": "AG",
+    "countryCode": "ATG",
+    "ISO3166Numeric": "028",
+    "ArabicFormal": "أنتيغوا وبربودا"
+  },
+  {
+    "name": "Argentina",
+    "official_name_ar": "الأرجنتين",
+    "official_name_en": "Argentina",
+    "zipcode": "54",
+    "ISO3166Alpha2": "AR",
+    "countryCode": "ARG",
+    "ISO3166Numeric": "032",
+    "ArabicFormal": "جمهورية الأرجنتين"
+  },
+  {
+    "name": "Armenia",
+    "official_name_ar": "أرمينيا",
+    "official_name_en": "Armenia",
+    "zipcode": "374",
+    "ISO3166Alpha2": "AM",
+    "countryCode": "ARM",
+    "ISO3166Numeric": "051",
+    "ArabicFormal": "جمهورية أرمينيا"
+  },
+  {
+    "name": "Aruba",
+    "official_name_ar": "أروبا",
+    "official_name_en": "Aruba",
+    "zipcode": "297",
+    "ISO3166Alpha2": "AW",
+    "countryCode": "ABW",
+    "ISO3166Numeric": "533",
+    "ArabicFormal": "Aruba"
+  },
+  {
+    "name": "Australia",
+    "official_name_ar": "أستراليا",
+    "official_name_en": "Australia",
+    "zipcode": "61",
+    "ISO3166Alpha2": "AU",
+    "countryCode": "AUS",
+    "ISO3166Numeric": "036",
+    "ArabicFormal": "أستراليا"
+  },
+  {
+    "name": "Austria",
+    "official_name_ar": "النمسا",
+    "official_name_en": "Austria",
+    "zipcode": "43",
+    "ISO3166Alpha2": "AT",
+    "countryCode": "AUT",
+    "ISO3166Numeric": "040",
+    "ArabicFormal": "جمهورية النمسا"
+  },
+  {
+    "name": "Azerbaijan",
+    "official_name_ar": "أذربيجان",
+    "official_name_en": "Azerbaijan",
+    "zipcode": "994",
+    "ISO3166Alpha2": "AZ",
+    "countryCode": "AZE",
+    "ISO3166Numeric": "031",
+    "ArabicFormal": "جمهورية أذربيجان"
+  },
+  {
+    "name": "Bahamas",
+    "official_name_ar": "جزر البهاما",
+    "official_name_en": "Bahamas",
+    "zipcode": "1-242",
+    "ISO3166Alpha2": "BS",
+    "countryCode": "BHS",
+    "ISO3166Numeric": "044",
+    "ArabicFormal": "كمنولث جزر البهاما"
+  },
+  {
+    "name": "Bahrain",
+    "official_name_ar": "البحرين",
+    "official_name_en": "Bahrain",
+    "zipcode": "973",
+    "ISO3166Alpha2": "BH",
+    "countryCode": "BHR",
+    "ISO3166Numeric": "048",
+    "ArabicFormal": "مملكة البحرين"
+  },
+  {
+    "name": "Bangladesh",
+    "official_name_ar": "بنغلاديش",
+    "official_name_en": "Bangladesh",
+    "zipcode": "880",
+    "ISO3166Alpha2": "BD",
+    "countryCode": "BGD",
+    "ISO3166Numeric": "050",
+    "ArabicFormal": "جمهورية بنغلاديش الشعبية"
+  },
+  {
+    "name": "Barbados",
+    "official_name_ar": "بربادوس",
+    "official_name_en": "Barbados",
+    "zipcode": "1-246",
+    "ISO3166Alpha2": "BB",
+    "countryCode": "BRB",
+    "ISO3166Numeric": "052",
+    "ArabicFormal": "بربادوس"
+  },
+  {
+    "name": "Belarus",
+    "official_name_ar": "بيلاروس",
+    "official_name_en": "Belarus",
+    "zipcode": "375",
+    "ISO3166Alpha2": "BY",
+    "countryCode": "BLR",
+    "ISO3166Numeric": "112",
+    "ArabicFormal": "جمهورية بيلاروس"
+  },
+  {
+    "name": "Belgium",
+    "official_name_ar": "بلجيكا",
+    "official_name_en": "Belgium",
+    "zipcode": "32",
+    "ISO3166Alpha2": "BE",
+    "countryCode": "BEL",
+    "ISO3166Numeric": "056",
+    "ArabicFormal": "مملكة بلجيكا"
+  },
+  {
+    "name": "Belize",
+    "official_name_ar": "بليز",
+    "official_name_en": "Belize",
+    "zipcode": "501",
+    "ISO3166Alpha2": "BZ",
+    "countryCode": "BLZ",
+    "ISO3166Numeric": "084",
+    "ArabicFormal": "بليز"
+  },
+  {
+    "name": "Benin",
+    "official_name_ar": "بنن",
+    "official_name_en": "Benin",
+    "zipcode": "229",
+    "ISO3166Alpha2": "BJ",
+    "countryCode": "BEN",
+    "ISO3166Numeric": "204",
+    "ArabicFormal": "جمهورية بنن"
+  },
+  {
+    "name": "Bermuda",
+    "official_name_ar": "برمودا",
+    "official_name_en": "Bermuda",
+    "zipcode": "1-441",
+    "ISO3166Alpha2": "BM",
+    "countryCode": "BMU",
+    "ISO3166Numeric": "060",
+    "ArabicFormal": "Bermuda"
+  },
+  {
+    "name": "Bhutan",
+    "official_name_ar": "بوتان",
+    "official_name_en": "Bhutan",
+    "zipcode": "975",
+    "ISO3166Alpha2": "BT",
+    "countryCode": "BTN",
+    "ISO3166Numeric": "064",
+    "ArabicFormal": "مملكة بوتان"
+  },
+  {
+    "name": "Bolivia",
+    "official_name_ar": "بوليفيا (دولة - المتعددة القوميات)",
+    "official_name_en": "Bolivia (Plurinational State of)",
+    "zipcode": "591",
+    "ISO3166Alpha2": "BO",
+    "countryCode": "BOL",
+    "ISO3166Numeric": "068",
+    "ArabicFormal": "دولة بوليفيا المتعددة القوميات"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "official_name_ar": "بونير وسان يوستاتيوس وسابا",
+    "official_name_en": "Bonaire, Sint Eustatius and Saba",
+    "zipcode": "599",
+    "ISO3166Alpha2": "BQ",
+    "countryCode": "BES",
+    "ISO3166Numeric": "535",
+    "ArabicFormal": "Bonaire, Sint Eustatius and Saba"
+  },
+  {
+    "name": "Bosnia",
+    "official_name_ar": "البوسنة والهرسك",
+    "official_name_en": "Bosnia and Herzegovina",
+    "zipcode": "387",
+    "ISO3166Alpha2": "BA",
+    "countryCode": "BIH",
+    "ISO3166Numeric": "070",
+    "ArabicFormal": "البوسنة والهرسك"
+  },
+  {
+    "name": "Botswana",
+    "official_name_ar": "بوتسوانا",
+    "official_name_en": "Botswana",
+    "zipcode": "267",
+    "ISO3166Alpha2": "BW",
+    "countryCode": "BWA",
+    "ISO3166Numeric": "072",
+    "ArabicFormal": "جمهورية بوتسوانا"
+  },
+  {
+    "name": "Bouvet Island",
+    "official_name_ar": "جزيرة بوفيت",
+    "official_name_en": "Bouvet Island",
+    "zipcode": "47",
+    "ISO3166Alpha2": "BV",
+    "countryCode": "BVT",
+    "ISO3166Numeric": "074",
+    "ArabicFormal": "Bouvet Island"
+  },
+  {
+    "name": "Brazil",
+    "official_name_ar": "البرازيل",
+    "official_name_en": "Brazil",
+    "zipcode": "55",
+    "ISO3166Alpha2": "BR",
+    "countryCode": "BRA",
+    "ISO3166Numeric": "076",
+    "ArabicFormal": "الجمهورية الاتحادية البرازيلية"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "official_name_ar": "المحيط الهندي الإقليم البريطاني في",
+    "official_name_en": "British Indian Ocean Territory",
+    "zipcode": "246",
+    "ISO3166Alpha2": "IO",
+    "countryCode": "IOT",
+    "ISO3166Numeric": "086",
+    "ArabicFormal": "British Indian Ocean Territory"
+  },
+  {
+    "name": "British Virgin Islands",
+    "official_name_ar": "جزر فرجن البريطانية",
+    "official_name_en": "British Virgin Islands",
+    "zipcode": "1-284",
+    "ISO3166Alpha2": "VG",
+    "countryCode": "VGB",
+    "ISO3166Numeric": "092",
+    "ArabicFormal": "British Virgin Islands"
+  },
+  {
+    "name": "Brunei",
+    "official_name_ar": "بروني دار السلام",
+    "official_name_en": "Brunei Darussalam",
+    "zipcode": "673",
+    "ISO3166Alpha2": "BN",
+    "countryCode": "BRN",
+    "ISO3166Numeric": "096",
+    "ArabicFormal": "بروني دار السلام"
+  },
+  {
+    "name": "Bulgaria",
+    "official_name_ar": "بلغاريا",
+    "official_name_en": "Bulgaria",
+    "zipcode": "359",
+    "ISO3166Alpha2": "BG",
+    "countryCode": "BGR",
+    "ISO3166Numeric": "100",
+    "ArabicFormal": "جمهورية بلغاريا"
+  },
+  {
+    "name": "Burkina Faso",
+    "official_name_ar": "بوركينا فاسو",
+    "official_name_en": "Burkina Faso",
+    "zipcode": "226",
+    "ISO3166Alpha2": "BF",
+    "countryCode": "BFA",
+    "ISO3166Numeric": "854",
+    "ArabicFormal": "بوركينا فاسو"
+  },
+  {
+    "name": "Burundi",
+    "official_name_ar": "بوروندي",
+    "official_name_en": "Burundi",
+    "zipcode": "257",
+    "ISO3166Alpha2": "BI",
+    "countryCode": "BDI",
+    "ISO3166Numeric": "108",
+    "ArabicFormal": "جمهورية بوروندي"
+  },
+  {
+    "name": "Cape Verde",
+    "official_name_ar": "كابو فيردي",
+    "official_name_en": "Cabo Verde",
+    "zipcode": "238",
+    "ISO3166Alpha2": "CV",
+    "countryCode": "CPV",
+    "ISO3166Numeric": "132",
+    "ArabicFormal": "جمهورية كابو فيردي"
+  },
+  {
+    "name": "Cambodia",
+    "official_name_ar": "كمبوديا",
+    "official_name_en": "Cambodia",
+    "zipcode": "855",
+    "ISO3166Alpha2": "KH",
+    "countryCode": "KHM",
+    "ISO3166Numeric": "116",
+    "ArabicFormal": "مملكة كمبوديا"
+  },
+  {
+    "name": "Cameroon",
+    "official_name_ar": "الكاميرون",
+    "official_name_en": "Cameroon",
+    "zipcode": "237",
+    "ISO3166Alpha2": "CM",
+    "countryCode": "CMR",
+    "ISO3166Numeric": "120",
+    "ArabicFormal": "جمهورية الكاميرون"
+  },
+  {
+    "name": "Canada",
+    "official_name_ar": "كندا",
+    "official_name_en": "Canada",
+    "zipcode": "1",
+    "ISO3166Alpha2": "CA",
+    "countryCode": "CAN",
+    "ISO3166Numeric": "124",
+    "ArabicFormal": "كندا"
+  },
+  {
+    "name": "Cayman Islands",
+    "official_name_ar": "جزر كايمان",
+    "official_name_en": "Cayman Islands",
+    "zipcode": "1-345",
+    "ISO3166Alpha2": "KY",
+    "countryCode": "CYM",
+    "ISO3166Numeric": "136",
+    "ArabicFormal": "Cayman Islands"
+  },
+  {
+    "name": "Central African Republic",
+    "official_name_ar": "جمهورية أفريقيا الوسطى",
+    "official_name_en": "Central African Republic",
+    "zipcode": "236",
+    "ISO3166Alpha2": "CF",
+    "countryCode": "CAF",
+    "ISO3166Numeric": "140",
+    "ArabicFormal": "جمهورية أفريقيا الوسطى"
+  },
+  {
+    "name": "Chad",
+    "official_name_ar": "تشاد",
+    "official_name_en": "Chad",
+    "zipcode": "235",
+    "ISO3166Alpha2": "TD",
+    "countryCode": "TCD",
+    "ISO3166Numeric": "148",
+    "ArabicFormal": "جمهورية تشاد"
+  },
+  {
+    "name": "Chile",
+    "official_name_ar": "شيلي",
+    "official_name_en": "Chile",
+    "zipcode": "56",
+    "ISO3166Alpha2": "CL",
+    "countryCode": "CHL",
+    "ISO3166Numeric": "152",
+    "ArabicFormal": "جمهورية شيلي"
+  },
+  {
+    "name": "China",
+    "official_name_ar": "الصين",
+    "official_name_en": "China",
+    "zipcode": "86",
+    "ISO3166Alpha2": "CN",
+    "countryCode": "CHN",
+    "ISO3166Numeric": "156",
+    "ArabicFormal": "جمهورية الصين الشعبية"
+  },
+  {
+    "name": "Hong Kong",
+    "official_name_ar": "منطقة هونغ كونغ الصينية الإدارية الخاصة",
+    "official_name_en": "China, Hong Kong Special Administrative Region",
+    "zipcode": "852",
+    "ISO3166Alpha2": "HK",
+    "countryCode": "HKG",
+    "ISO3166Numeric": "344",
+    "ArabicFormal": "China, Hong Kong Special Administrative Region"
+  },
+  {
+    "name": "Macau",
+    "official_name_ar": "منطقة ماكاو الإدارية الخاصة التابعة للصين",
+    "official_name_en": "China, Macao Special Administrative Region",
+    "zipcode": "853",
+    "ISO3166Alpha2": "MO",
+    "countryCode": "MAC",
+    "ISO3166Numeric": "446",
+    "ArabicFormal": "China, Macao Special Administrative Region"
+  },
+  {
+    "name": "Christmas Island",
+    "official_name_ar": "جزيرة كريسماس",
+    "official_name_en": "Christmas Island",
+    "zipcode": "61",
+    "ISO3166Alpha2": "CX",
+    "countryCode": "CXR",
+    "ISO3166Numeric": "162",
+    "ArabicFormal": "Christmas Island"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "official_name_ar": "جزر كوكوس (كيلينغ)",
+    "official_name_en": "Cocos (Keeling) Islands",
+    "zipcode": "61",
+    "ISO3166Alpha2": "CC",
+    "countryCode": "CCK",
+    "ISO3166Numeric": "166",
+    "ArabicFormal": "Cocos (Keeling) Islands"
+  },
+  {
+    "name": "Colombia",
+    "official_name_ar": "كولومبيا",
+    "official_name_en": "Colombia",
+    "zipcode": "57",
+    "ISO3166Alpha2": "CO",
+    "countryCode": "COL",
+    "ISO3166Numeric": "170",
+    "ArabicFormal": "جمهورية كولومبيا"
+  },
+  {
+    "name": "Comoros",
+    "official_name_ar": "جزر القمر",
+    "official_name_en": "Comoros",
+    "zipcode": "269",
+    "ISO3166Alpha2": "KM",
+    "countryCode": "COM",
+    "ISO3166Numeric": "174",
+    "ArabicFormal": "اتحاد جزر القمر"
+  },
+  {
+    "name": "Congo - Brazzaville",
+    "official_name_ar": "الكونغو",
+    "official_name_en": "Congo",
+    "zipcode": "242",
+    "ISO3166Alpha2": "CG",
+    "countryCode": "COG",
+    "ISO3166Numeric": "178",
+    "ArabicFormal": "جمهورية الكونغو"
+  },
+  {
+    "name": "Cook Islands",
+    "official_name_ar": "جزر كوك",
+    "official_name_en": "Cook Islands",
+    "zipcode": "682",
+    "ISO3166Alpha2": "CK",
+    "countryCode": "COK",
+    "ISO3166Numeric": "184",
+    "ArabicFormal": "جزر كوك"
+  },
+  {
+    "name": "Costa Rica",
+    "official_name_ar": "كوستاريكا",
+    "official_name_en": "Costa Rica",
+    "zipcode": "506",
+    "ISO3166Alpha2": "CR",
+    "countryCode": "CRI",
+    "ISO3166Numeric": "188",
+    "ArabicFormal": "جمهورية كوستاريكا"
+  },
+  {
+    "name": "Croatia",
+    "official_name_ar": "كرواتيا",
+    "official_name_en": "Croatia",
+    "zipcode": "385",
+    "ISO3166Alpha2": "HR",
+    "countryCode": "HRV",
+    "ISO3166Numeric": "191",
+    "ArabicFormal": "جمهورية كرواتيا"
+  },
+  {
+    "name": "Cuba",
+    "official_name_ar": "كوبا",
+    "official_name_en": "Cuba",
+    "zipcode": "53",
+    "ISO3166Alpha2": "CU",
+    "countryCode": "CUB",
+    "ISO3166Numeric": "192",
+    "ArabicFormal": "جمهورية كوبا"
+  },
+  {
+    "name": "Curaçao",
+    "official_name_ar": "كوراساو",
+    "official_name_en": "Curaçao",
+    "zipcode": "599",
+    "ISO3166Alpha2": "CW",
+    "countryCode": "CUW",
+    "ISO3166Numeric": "531",
+    "ArabicFormal": "Curaçao"
+  },
+  {
+    "name": "Cyprus",
+    "official_name_ar": "قبرص",
+    "official_name_en": "Cyprus",
+    "zipcode": "357",
+    "ISO3166Alpha2": "CY",
+    "countryCode": "CYP",
+    "ISO3166Numeric": "196",
+    "ArabicFormal": "جمهورية قبرص"
+  },
+  {
+    "name": "Czechia",
+    "official_name_ar": "تشيكيا",
+    "official_name_en": "Czechia",
+    "zipcode": "420",
+    "ISO3166Alpha2": "CZ",
+    "countryCode": "CZE",
+    "ISO3166Numeric": "203",
+    "ArabicFormal": "الجمهورية التشيكية"
+  },
+  {
+    "name": "Côte d’Ivoire",
+    "official_name_ar": "كوت ديفوار",
+    "official_name_en": "Côte d'Ivoire",
+    "zipcode": "225",
+    "ISO3166Alpha2": "CI",
+    "countryCode": "CIV",
+    "ISO3166Numeric": "384",
+    "ArabicFormal": "جمهورية كوت ديفوار"
+  },
+  {
+    "name": "North Korea",
+    "official_name_ar": "جمهورية كوريا الشعبية الديمقراطية",
+    "official_name_en": "Democratic People's Republic of Korea",
+    "zipcode": "850",
+    "ISO3166Alpha2": "KP",
+    "countryCode": "PRK",
+    "ISO3166Numeric": "408",
+    "ArabicFormal": "جمهورية كوريا الشعبية الديمقراطية"
+  },
+  {
+    "name": "Congo - Kinshasa",
+    "official_name_ar": "جمهورية الكونغو الديمقراطية",
+    "official_name_en": "Democratic Republic of the Congo",
+    "zipcode": "243",
+    "ISO3166Alpha2": "CD",
+    "countryCode": "COD",
+    "ISO3166Numeric": "180",
+    "ArabicFormal": "جمهورية الكونغو الديمقراطية"
+  },
+  {
+    "name": "Denmark",
+    "official_name_ar": "الدانمرك",
+    "official_name_en": "Denmark",
+    "zipcode": "45",
+    "ISO3166Alpha2": "DK",
+    "countryCode": "DNK",
+    "ISO3166Numeric": "208",
+    "ArabicFormal": "مملكة الدانمرك"
+  },
+  {
+    "name": "Djibouti",
+    "official_name_ar": "جيبوتي",
+    "official_name_en": "Djibouti",
+    "zipcode": "253",
+    "ISO3166Alpha2": "DJ",
+    "countryCode": "DJI",
+    "ISO3166Numeric": "262",
+    "ArabicFormal": "جمهورية جيبوتي"
+  },
+  {
+    "name": "Dominica",
+    "official_name_ar": "دومينيكا",
+    "official_name_en": "Dominica",
+    "zipcode": "1-767",
+    "ISO3166Alpha2": "DM",
+    "countryCode": "DMA",
+    "ISO3166Numeric": "212",
+    "ArabicFormal": "كمنولث دومينيكا"
+  },
+  {
+    "name": "Dominican Republic",
+    "official_name_ar": "الجمهورية الدومينيكية",
+    "official_name_en": "Dominican Republic",
+    "zipcode": "1-809,1-829,1-849",
+    "ISO3166Alpha2": "DO",
+    "countryCode": "DOM",
+    "ISO3166Numeric": "214",
+    "ArabicFormal": "الجمهورية الدومينيكية"
+  },
+  {
+    "name": "Ecuador",
+    "official_name_ar": "إكوادور",
+    "official_name_en": "Ecuador",
+    "zipcode": "593",
+    "ISO3166Alpha2": "EC",
+    "countryCode": "ECU",
+    "ISO3166Numeric": "218",
+    "ArabicFormal": "جمهورية إكوادور"
+  },
+  {
+    "name": "Egypt",
+    "official_name_ar": "مصر",
+    "official_name_en": "Egypt",
+    "zipcode": "20",
+    "ISO3166Alpha2": "EG",
+    "countryCode": "EGY",
+    "ISO3166Numeric": "818",
+    "ArabicFormal": "جمهورية مصر العربية"
+  },
+  {
+    "name": "El Salvador",
+    "official_name_ar": "السلفادور",
+    "official_name_en": "El Salvador",
+    "zipcode": "503",
+    "ISO3166Alpha2": "SV",
+    "countryCode": "SLV",
+    "ISO3166Numeric": "222",
+    "ArabicFormal": "جمهورية السلفادور"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "official_name_ar": "غينيا الاستوائية",
+    "official_name_en": "Equatorial Guinea",
+    "zipcode": "240",
+    "ISO3166Alpha2": "GQ",
+    "countryCode": "GNQ",
+    "ISO3166Numeric": "226",
+    "ArabicFormal": "جمهورية غينيا الاستوائية"
+  },
+  {
+    "name": "Eritrea",
+    "official_name_ar": "إريتريا",
+    "official_name_en": "Eritrea",
+    "zipcode": "291",
+    "ISO3166Alpha2": "ER",
+    "countryCode": "ERI",
+    "ISO3166Numeric": "232",
+    "ArabicFormal": "دولة إريتريا"
+  },
+  {
+    "name": "Estonia",
+    "official_name_ar": "إستونيا",
+    "official_name_en": "Estonia",
+    "zipcode": "372",
+    "ISO3166Alpha2": "EE",
+    "countryCode": "EST",
+    "ISO3166Numeric": "233",
+    "ArabicFormal": "جمهورية إستونيا"
+  },
+  {
+    "name": "Ethiopia",
+    "official_name_ar": "إثيوبيا",
+    "official_name_en": "Ethiopia",
+    "zipcode": "251",
+    "ISO3166Alpha2": "ET",
+    "countryCode": "ETH",
+    "ISO3166Numeric": "231",
+    "ArabicFormal": "جمهورية إثيوبيا الديمقراطية الاتحادية"
+  },
+  {
+    "name": "Falkland Islands",
+    "official_name_ar": "جزر فوكلاند (مالفيناس)",
+    "official_name_en": "Falkland Islands (Malvinas)",
+    "zipcode": "500",
+    "ISO3166Alpha2": "FK",
+    "countryCode": "FLK",
+    "ISO3166Numeric": "238",
+    "ArabicFormal": "Falkland Islands (Malvinas)"
+  },
+  {
+    "name": "Faroe Islands",
+    "official_name_ar": "جزر فايرو",
+    "official_name_en": "Faroe Islands",
+    "zipcode": "298",
+    "ISO3166Alpha2": "FO",
+    "countryCode": "FRO",
+    "ISO3166Numeric": "234",
+    "ArabicFormal": "Faroe Islands"
+  },
+  {
+    "name": "Fiji",
+    "official_name_ar": "فيجي",
+    "official_name_en": "Fiji",
+    "zipcode": "679",
+    "ISO3166Alpha2": "FJ",
+    "countryCode": "FJI",
+    "ISO3166Numeric": "242",
+    "ArabicFormal": "جمهورية فيجي"
+  },
+  {
+    "name": "Finland",
+    "official_name_ar": "فنلندا",
+    "official_name_en": "Finland",
+    "zipcode": "358",
+    "ISO3166Alpha2": "FI",
+    "countryCode": "FIN",
+    "ISO3166Numeric": "246",
+    "ArabicFormal": "جمهورية فنلندا"
+  },
+  {
+    "name": "France",
+    "official_name_ar": "فرنسا",
+    "official_name_en": "France",
+    "zipcode": "33",
+    "ISO3166Alpha2": "FR",
+    "countryCode": "FRA",
+    "ISO3166Numeric": "250",
+    "ArabicFormal": "الجمهورية الفرنسية"
+  },
+  {
+    "name": "French Guiana",
+    "official_name_ar": "غيانا الفرنسية",
+    "official_name_en": "French Guiana",
+    "zipcode": "594",
+    "ISO3166Alpha2": "GF",
+    "countryCode": "GUF",
+    "ISO3166Numeric": "254",
+    "ArabicFormal": "French Guiana"
+  },
+  {
+    "name": "French Polynesia",
+    "official_name_ar": "بولينيزيا الفرنسية",
+    "official_name_en": "French Polynesia",
+    "zipcode": "689",
+    "ISO3166Alpha2": "PF",
+    "countryCode": "PYF",
+    "ISO3166Numeric": "258",
+    "ArabicFormal": "French Polynesia"
+  },
+  {
+    "name": "French Southern Territories",
+    "official_name_ar": "الأراضي الفرنسية الجنوبية الجنوبية",
+    "official_name_en": "French Southern Territories",
+    "zipcode": "262",
+    "ISO3166Alpha2": "TF",
+    "countryCode": "ATF",
+    "ISO3166Numeric": "260",
+    "ArabicFormal": "French Southern Territories"
+  },
+  {
+    "name": "Gabon",
+    "official_name_ar": "غابون",
+    "official_name_en": "Gabon",
+    "zipcode": "241",
+    "ISO3166Alpha2": "GA",
+    "countryCode": "GAB",
+    "ISO3166Numeric": "266",
+    "ArabicFormal": "جمهورية الغابون"
+  },
+  {
+    "name": "Gambia",
+    "official_name_ar": "غامبيا",
+    "official_name_en": "Gambia",
+    "zipcode": "220",
+    "ISO3166Alpha2": "GM",
+    "countryCode": "GMB",
+    "ISO3166Numeric": "270",
+    "ArabicFormal": "جمهورية غامبيا"
+  },
+  {
+    "name": "Georgia",
+    "official_name_ar": "جورجيا",
+    "official_name_en": "Georgia",
+    "zipcode": "995",
+    "ISO3166Alpha2": "GE",
+    "countryCode": "GEO",
+    "ISO3166Numeric": "268",
+    "ArabicFormal": "جورجيا"
+  },
+  {
+    "name": "Germany",
+    "official_name_ar": "ألمانيا",
+    "official_name_en": "Germany",
+    "zipcode": "49",
+    "ISO3166Alpha2": "DE",
+    "countryCode": "DEU",
+    "ISO3166Numeric": "276",
+    "ArabicFormal": "جمهورية ألمانيا الاتحادية"
+  },
+  {
+    "name": "Ghana",
+    "official_name_ar": "غانا",
+    "official_name_en": "Ghana",
+    "zipcode": "233",
+    "ISO3166Alpha2": "GH",
+    "countryCode": "GHA",
+    "ISO3166Numeric": "288",
+    "ArabicFormal": "جمهورية غانا"
+  },
+  {
+    "name": "Gibraltar",
+    "official_name_ar": "جبل طارق",
+    "official_name_en": "Gibraltar",
+    "zipcode": "350",
+    "ISO3166Alpha2": "GI",
+    "countryCode": "GIB",
+    "ISO3166Numeric": "292",
+    "ArabicFormal": "Gibraltar"
+  },
+  {
+    "name": "Greece",
+    "official_name_ar": "اليونان",
+    "official_name_en": "Greece",
+    "zipcode": "30",
+    "ISO3166Alpha2": "GR",
+    "countryCode": "GRC",
+    "ISO3166Numeric": "300",
+    "ArabicFormal": "الجمهورية الهيلينية"
+  },
+  {
+    "name": "Greenland",
+    "official_name_ar": "غرينلند",
+    "official_name_en": "Greenland",
+    "zipcode": "299",
+    "ISO3166Alpha2": "GL",
+    "countryCode": "GRL",
+    "ISO3166Numeric": "304",
+    "ArabicFormal": "Greenland"
+  },
+  {
+    "name": "Grenada",
+    "official_name_ar": "غرينادا",
+    "official_name_en": "Grenada",
+    "zipcode": "1-473",
+    "ISO3166Alpha2": "GD",
+    "countryCode": "GRD",
+    "ISO3166Numeric": "308",
+    "ArabicFormal": "غرينادا"
+  },
+  {
+    "name": "Guadeloupe",
+    "official_name_ar": "غواديلوب",
+    "official_name_en": "Guadeloupe",
+    "zipcode": "590",
+    "ISO3166Alpha2": "GP",
+    "countryCode": "GLP",
+    "ISO3166Numeric": "312",
+    "ArabicFormal": "Guadeloupe"
+  },
+  {
+    "name": "Guam",
+    "official_name_ar": "غوام",
+    "official_name_en": "Guam",
+    "zipcode": "1-671",
+    "ISO3166Alpha2": "GU",
+    "countryCode": "GUM",
+    "ISO3166Numeric": "316",
+    "ArabicFormal": "Guam"
+  },
+  {
+    "name": "Guatemala",
+    "official_name_ar": "غواتيمالا",
+    "official_name_en": "Guatemala",
+    "zipcode": "502",
+    "ISO3166Alpha2": "GT",
+    "countryCode": "GTM",
+    "ISO3166Numeric": "320",
+    "ArabicFormal": "جمهورية غواتيمالا"
+  },
+  {
+    "name": "Guernsey",
+    "official_name_ar": "غيرنزي",
+    "official_name_en": "Guernsey",
+    "zipcode": "44",
+    "ISO3166Alpha2": "GG",
+    "countryCode": "GGY",
+    "ISO3166Numeric": "831",
+    "ArabicFormal": "Guernsey"
+  },
+  {
+    "name": "Guinea",
+    "official_name_ar": "غينيا",
+    "official_name_en": "Guinea",
+    "zipcode": "224",
+    "ISO3166Alpha2": "GN",
+    "countryCode": "GIN",
+    "ISO3166Numeric": "324",
+    "ArabicFormal": "جمهورية غينيا"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "official_name_ar": "غينيا - بيساو",
+    "official_name_en": "Guinea-Bissau",
+    "zipcode": "245",
+    "ISO3166Alpha2": "GW",
+    "countryCode": "GNB",
+    "ISO3166Numeric": "624",
+    "ArabicFormal": "جمهورية غينيا - بيساو"
+  },
+  {
+    "name": "Guyana",
+    "official_name_ar": "غيانا",
+    "official_name_en": "Guyana",
+    "zipcode": "592",
+    "ISO3166Alpha2": "GY",
+    "countryCode": "GUY",
+    "ISO3166Numeric": "328",
+    "ArabicFormal": "جمهورية غيانا"
+  },
+  {
+    "name": "Haiti",
+    "official_name_ar": "هايتي",
+    "official_name_en": "Haiti",
+    "zipcode": "509",
+    "ISO3166Alpha2": "HT",
+    "countryCode": "HTI",
+    "ISO3166Numeric": "332",
+    "ArabicFormal": "جمهورية هايتي"
+  },
+  {
+    "name": "Heard & McDonald Islands",
+    "official_name_ar": "جزيرة هيرد وجزر ماكدونالد",
+    "official_name_en": "Heard Island and McDonald Islands",
+    "zipcode": "672",
+    "ISO3166Alpha2": "HM",
+    "countryCode": "HMD",
+    "ISO3166Numeric": "334",
+    "ArabicFormal": "Heard Island and McDonald Islands"
+  },
+  {
+    "name": "Vatican City",
+    "official_name_ar": "الكرسي الرسولي",
+    "official_name_en": "Holy See",
+    "zipcode": "39-06",
+    "ISO3166Alpha2": "VA",
+    "countryCode": "VAT",
+    "ISO3166Numeric": "336",
+    "ArabicFormal": "الكرسي الرسولي"
+  },
+  {
+    "name": "Honduras",
+    "official_name_ar": "هندوراس",
+    "official_name_en": "Honduras",
+    "zipcode": "504",
+    "ISO3166Alpha2": "HN",
+    "countryCode": "HND",
+    "ISO3166Numeric": "340",
+    "ArabicFormal": "جمهورية هندوراس"
+  },
+  {
+    "name": "Hungary",
+    "official_name_ar": "هنغاريا",
+    "official_name_en": "Hungary",
+    "zipcode": "36",
+    "ISO3166Alpha2": "HU",
+    "countryCode": "HUN",
+    "ISO3166Numeric": "348",
+    "ArabicFormal": "هنغاريا"
+  },
+  {
+    "name": "Iceland",
+    "official_name_ar": "آيسلندا",
+    "official_name_en": "Iceland",
+    "zipcode": "354",
+    "ISO3166Alpha2": "IS",
+    "countryCode": "ISL",
+    "ISO3166Numeric": "352",
+    "ArabicFormal": "جمهورية آيسلندا"
+  },
+  {
+    "name": "India",
+    "official_name_ar": "الهند",
+    "official_name_en": "India",
+    "zipcode": "91",
+    "ISO3166Alpha2": "IN",
+    "countryCode": "IND",
+    "ISO3166Numeric": "356",
+    "ArabicFormal": "جمهورية الهند"
+  },
+  {
+    "name": "Indonesia",
+    "official_name_ar": "إندونيسيا",
+    "official_name_en": "Indonesia",
+    "zipcode": "62",
+    "ISO3166Alpha2": "ID",
+    "countryCode": "IDN",
+    "ISO3166Numeric": "360",
+    "ArabicFormal": "جمهورية إندونيسيا"
+  },
+  {
+    "name": "Iran",
+    "official_name_ar": "إيران (جمهورية - الإسلامية)",
+    "official_name_en": "Iran (Islamic Republic of)",
+    "zipcode": "98",
+    "ISO3166Alpha2": "IR",
+    "countryCode": "IRN",
+    "ISO3166Numeric": "364",
+    "ArabicFormal": "جمهورية إيران الإسلامية"
+  },
+  {
+    "name": "Iraq",
+    "official_name_ar": "العراق",
+    "official_name_en": "Iraq",
+    "zipcode": "964",
+    "ISO3166Alpha2": "IQ",
+    "countryCode": "IRQ",
+    "ISO3166Numeric": "368",
+    "ArabicFormal": "جمهورية العراق"
+  },
+  {
+    "name": "Ireland",
+    "official_name_ar": "آيرلندا",
+    "official_name_en": "Ireland",
+    "zipcode": "353",
+    "ISO3166Alpha2": "IE",
+    "countryCode": "IRL",
+    "ISO3166Numeric": "372",
+    "ArabicFormal": "آيرلندا"
+  },
+  {
+    "name": "Isle of Man",
+    "official_name_ar": "جزيرة مان",
+    "official_name_en": "Isle of Man",
+    "zipcode": "44",
+    "ISO3166Alpha2": "IM",
+    "countryCode": "IMN",
+    "ISO3166Numeric": "833",
+    "ArabicFormal": "Isle of Man"
+  },
+  {
+    "name": "Israel",
+    "official_name_ar": "إسرائيل",
+    "official_name_en": "Israel",
+    "zipcode": "972",
+    "ISO3166Alpha2": "IL",
+    "countryCode": "ISR",
+    "ISO3166Numeric": "376",
+    "ArabicFormal": "دولة إسرائيل"
+  },
+  {
+    "name": "Italy",
+    "official_name_ar": "إيطاليا",
+    "official_name_en": "Italy",
+    "zipcode": "39",
+    "ISO3166Alpha2": "IT",
+    "countryCode": "ITA",
+    "ISO3166Numeric": "380",
+    "ArabicFormal": "جمهورية إيطاليا"
+  },
+  {
+    "name": "Jamaica",
+    "official_name_ar": "جامايكا",
+    "official_name_en": "Jamaica",
+    "zipcode": "1-876",
+    "ISO3166Alpha2": "JM",
+    "countryCode": "JAM",
+    "ISO3166Numeric": "388",
+    "ArabicFormal": "جامايكا"
+  },
+  {
+    "name": "Japan",
+    "official_name_ar": "اليابان",
+    "official_name_en": "Japan",
+    "zipcode": "81",
+    "ISO3166Alpha2": "JP",
+    "countryCode": "JPN",
+    "ISO3166Numeric": "392",
+    "ArabicFormal": "اليابان"
+  },
+  {
+    "name": "Jersey",
+    "official_name_ar": "جيرزي",
+    "official_name_en": "Jersey",
+    "zipcode": "44",
+    "ISO3166Alpha2": "JE",
+    "countryCode": "JEY",
+    "ISO3166Numeric": "832",
+    "ArabicFormal": "Jersey"
+  },
+  {
+    "name": "Jordan",
+    "official_name_ar": "الأردن",
+    "official_name_en": "Jordan",
+    "zipcode": "962",
+    "ISO3166Alpha2": "JO",
+    "countryCode": "JOR",
+    "ISO3166Numeric": "400",
+    "ArabicFormal": "المملكة الأردنية الهاشمية"
+  },
+  {
+    "name": "Kazakhstan",
+    "official_name_ar": "كازاخستان",
+    "official_name_en": "Kazakhstan",
+    "zipcode": "7",
+    "ISO3166Alpha2": "KZ",
+    "countryCode": "KAZ",
+    "ISO3166Numeric": "398",
+    "ArabicFormal": "جمهورية كازاخستان"
+  },
+  {
+    "name": "Kenya",
+    "official_name_ar": "كينيا",
+    "official_name_en": "Kenya",
+    "zipcode": "254",
+    "ISO3166Alpha2": "KE",
+    "countryCode": "KEN",
+    "ISO3166Numeric": "404",
+    "ArabicFormal": "جمهورية كينيا"
+  },
+  {
+    "name": "Kiribati",
+    "official_name_ar": "كيريباس",
+    "official_name_en": "Kiribati",
+    "zipcode": "686",
+    "ISO3166Alpha2": "KI",
+    "countryCode": "KIR",
+    "ISO3166Numeric": "296",
+    "ArabicFormal": "جمهورية كيريباس"
+  },
+  {
+    "name": "Kuwait",
+    "official_name_ar": "الكويت",
+    "official_name_en": "Kuwait",
+    "zipcode": "965",
+    "ISO3166Alpha2": "KW",
+    "countryCode": "KWT",
+    "ISO3166Numeric": "414",
+    "ArabicFormal": "دولة الكويت"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "official_name_ar": "قيرغيزستان",
+    "official_name_en": "Kyrgyzstan",
+    "zipcode": "996",
+    "ISO3166Alpha2": "KG",
+    "countryCode": "KGZ",
+    "ISO3166Numeric": "417",
+    "ArabicFormal": "جمهورية قيرغيزستان"
+  },
+  {
+    "name": "Laos",
+    "official_name_ar": "جمهورية لاو الديمقراطية الشعبية",
+    "official_name_en": "Lao People's Democratic Republic",
+    "zipcode": "856",
+    "ISO3166Alpha2": "LA",
+    "countryCode": "LAO",
+    "ISO3166Numeric": "418",
+    "ArabicFormal": "جمهورية لاو الديمقراطية الشعبية"
+  },
+  {
+    "name": "Latvia",
+    "official_name_ar": "لاتفيا",
+    "official_name_en": "Latvia",
+    "zipcode": "371",
+    "ISO3166Alpha2": "LV",
+    "countryCode": "LVA",
+    "ISO3166Numeric": "428",
+    "ArabicFormal": "جمهورية لاتفيا"
+  },
+  {
+    "name": "Lebanon",
+    "official_name_ar": "لبنان",
+    "official_name_en": "Lebanon",
+    "zipcode": "961",
+    "ISO3166Alpha2": "LB",
+    "countryCode": "LBN",
+    "ISO3166Numeric": "422",
+    "ArabicFormal": "الجمهورية اللبنانية"
+  },
+  {
+    "name": "Lesotho",
+    "official_name_ar": "ليسوتو",
+    "official_name_en": "Lesotho",
+    "zipcode": "266",
+    "ISO3166Alpha2": "LS",
+    "countryCode": "LSO",
+    "ISO3166Numeric": "426",
+    "ArabicFormal": "مملكة ليسوتو"
+  },
+  {
+    "name": "Liberia",
+    "official_name_ar": "ليبريا",
+    "official_name_en": "Liberia",
+    "zipcode": "231",
+    "ISO3166Alpha2": "LR",
+    "countryCode": "LBR",
+    "ISO3166Numeric": "430",
+    "ArabicFormal": "جمهورية ليبريا"
+  },
+  {
+    "name": "Libya",
+    "official_name_ar": "ليبيا",
+    "official_name_en": "Libya",
+    "zipcode": "218",
+    "ISO3166Alpha2": "LY",
+    "countryCode": "LBY",
+    "ISO3166Numeric": "434",
+    "ArabicFormal": "ليبيا"
+  },
+  {
+    "name": "Liechtenstein",
+    "official_name_ar": "ليختنشتاين",
+    "official_name_en": "Liechtenstein",
+    "zipcode": "423",
+    "ISO3166Alpha2": "LI",
+    "countryCode": "LIE",
+    "ISO3166Numeric": "438",
+    "ArabicFormal": "إمارة ليختنشتاين"
+  },
+  {
+    "name": "Lithuania",
+    "official_name_ar": "ليتوانيا",
+    "official_name_en": "Lithuania",
+    "zipcode": "370",
+    "ISO3166Alpha2": "LT",
+    "countryCode": "LTU",
+    "ISO3166Numeric": "440",
+    "ArabicFormal": "جمهورية ليتوانيا"
+  },
+  {
+    "name": "Luxembourg",
+    "official_name_ar": "لكسمبرغ",
+    "official_name_en": "Luxembourg",
+    "zipcode": "352",
+    "ISO3166Alpha2": "LU",
+    "countryCode": "LUX",
+    "ISO3166Numeric": "442",
+    "ArabicFormal": "دوقية لكسمبرغ الكبرى"
+  },
+  {
+    "name": "Madagascar",
+    "official_name_ar": "مدغشقر",
+    "official_name_en": "Madagascar",
+    "zipcode": "261",
+    "ISO3166Alpha2": "MG",
+    "countryCode": "MDG",
+    "ISO3166Numeric": "450",
+    "ArabicFormal": "جمهورية مدغشقر"
+  },
+  {
+    "name": "Malawi",
+    "official_name_ar": "ملاوي",
+    "official_name_en": "Malawi",
+    "zipcode": "265",
+    "ISO3166Alpha2": "MW",
+    "countryCode": "MWI",
+    "ISO3166Numeric": "454",
+    "ArabicFormal": "جمهورية ملاوي"
+  },
+  {
+    "name": "Malaysia",
+    "official_name_ar": "ماليزيا",
+    "official_name_en": "Malaysia",
+    "zipcode": "60",
+    "ISO3166Alpha2": "MY",
+    "countryCode": "MYS",
+    "ISO3166Numeric": "458",
+    "ArabicFormal": "ماليزيا"
+  },
+  {
+    "name": "Maldives",
+    "official_name_ar": "ملديف",
+    "official_name_en": "Maldives",
+    "zipcode": "960",
+    "ISO3166Alpha2": "MV",
+    "countryCode": "MDV",
+    "ISO3166Numeric": "462",
+    "ArabicFormal": "جمهورية ملديف"
+  },
+  {
+    "name": "Mali",
+    "official_name_ar": "مالي",
+    "official_name_en": "Mali",
+    "zipcode": "223",
+    "ISO3166Alpha2": "ML",
+    "countryCode": "MLI",
+    "ISO3166Numeric": "466",
+    "ArabicFormal": "جمهورية مالي"
+  },
+  {
+    "name": "Malta",
+    "official_name_ar": "مالطة",
+    "official_name_en": "Malta",
+    "zipcode": "356",
+    "ISO3166Alpha2": "MT",
+    "countryCode": "MLT",
+    "ISO3166Numeric": "470",
+    "ArabicFormal": "جمهورية مالطة"
+  },
+  {
+    "name": "Marshall Islands",
+    "official_name_ar": "جزر مارشال",
+    "official_name_en": "Marshall Islands",
+    "zipcode": "692",
+    "ISO3166Alpha2": "MH",
+    "countryCode": "MHL",
+    "ISO3166Numeric": "584",
+    "ArabicFormal": "جمهورية جزر مارشال"
+  },
+  {
+    "name": "Martinique",
+    "official_name_ar": "مارتينيك",
+    "official_name_en": "Martinique",
+    "zipcode": "596",
+    "ISO3166Alpha2": "MQ",
+    "countryCode": "MTQ",
+    "ISO3166Numeric": "474",
+    "ArabicFormal": "Martinique"
+  },
+  {
+    "name": "Mauritania",
+    "official_name_ar": "موريتانيا",
+    "official_name_en": "Mauritania",
+    "zipcode": "222",
+    "ISO3166Alpha2": "MR",
+    "countryCode": "MRT",
+    "ISO3166Numeric": "478",
+    "ArabicFormal": "الجمهورية الإسلامية الموريتانية"
+  },
+  {
+    "name": "Mauritius",
+    "official_name_ar": "موريشيوس",
+    "official_name_en": "Mauritius",
+    "zipcode": "230",
+    "ISO3166Alpha2": "MU",
+    "countryCode": "MUS",
+    "ISO3166Numeric": "480",
+    "ArabicFormal": "جمهورية موريشيوس"
+  },
+  {
+    "name": "Mayotte",
+    "official_name_ar": "جزيرة مايوت",
+    "official_name_en": "Mayotte",
+    "zipcode": "262",
+    "ISO3166Alpha2": "YT",
+    "countryCode": "MYT",
+    "ISO3166Numeric": "175",
+    "ArabicFormal": "Mayotte"
+  },
+  {
+    "name": "Mexico",
+    "official_name_ar": "المكسيك",
+    "official_name_en": "Mexico",
+    "zipcode": "52",
+    "ISO3166Alpha2": "MX",
+    "countryCode": "MEX",
+    "ISO3166Numeric": "484",
+    "ArabicFormal": "الولايات المتحدة المكسيكية"
+  },
+  {
+    "name": "Micronesia",
+    "official_name_ar": "ميكرونيزيا (ولايات - الموحدة)",
+    "official_name_en": "Micronesia (Federated States of)",
+    "zipcode": "691",
+    "ISO3166Alpha2": "FM",
+    "countryCode": "FSM",
+    "ISO3166Numeric": "583",
+    "ArabicFormal": "ولايات ميكرونيزيا الموحدة"
+  },
+  {
+    "name": "Monaco",
+    "official_name_ar": "موناكو",
+    "official_name_en": "Monaco",
+    "zipcode": "377",
+    "ISO3166Alpha2": "MC",
+    "countryCode": "MCO",
+    "ISO3166Numeric": "492",
+    "ArabicFormal": "إمارة موناكو"
+  },
+  {
+    "name": "Mongolia",
+    "official_name_ar": "منغوليا",
+    "official_name_en": "Mongolia",
+    "zipcode": "976",
+    "ISO3166Alpha2": "MN",
+    "countryCode": "MNG",
+    "ISO3166Numeric": "496",
+    "ArabicFormal": "منغوليا"
+  },
+  {
+    "name": "Montenegro",
+    "official_name_ar": "الجبل الأسود",
+    "official_name_en": "Montenegro",
+    "zipcode": "382",
+    "ISO3166Alpha2": "ME",
+    "countryCode": "MNE",
+    "ISO3166Numeric": "499",
+    "ArabicFormal": "الجبل الأسود"
+  },
+  {
+    "name": "Montserrat",
+    "official_name_ar": "مونتسيرات",
+    "official_name_en": "Montserrat",
+    "zipcode": "1-664",
+    "ISO3166Alpha2": "MS",
+    "countryCode": "MSR",
+    "ISO3166Numeric": "500",
+    "ArabicFormal": "Montserrat"
+  },
+  {
+    "name": "Morocco",
+    "official_name_ar": "المغرب",
+    "official_name_en": "Morocco",
+    "zipcode": "212",
+    "ISO3166Alpha2": "MA",
+    "countryCode": "MAR",
+    "ISO3166Numeric": "504",
+    "ArabicFormal": "المملكة المغربية"
+  },
+  {
+    "name": "Mozambique",
+    "official_name_ar": "موزامبيق",
+    "official_name_en": "Mozambique",
+    "zipcode": "258",
+    "ISO3166Alpha2": "MZ",
+    "countryCode": "MOZ",
+    "ISO3166Numeric": "508",
+    "ArabicFormal": "جمهورية موزامبيق"
+  },
+  {
+    "name": "Myanmar",
+    "official_name_ar": "ميانمار",
+    "official_name_en": "Myanmar",
+    "zipcode": "95",
+    "ISO3166Alpha2": "MM",
+    "countryCode": "MMR",
+    "ISO3166Numeric": "104",
+    "ArabicFormal": "جمهورية اتحاد ميانمار"
+  },
+  {
+    "name": "Namibia",
+    "official_name_ar": "ناميبيا",
+    "official_name_en": "Namibia",
+    "zipcode": "264",
+    "ISO3166Alpha2": "NA",
+    "countryCode": "NAM",
+    "ISO3166Numeric": "516",
+    "ArabicFormal": "جمهورية ناميبيا"
+  },
+  {
+    "name": "Nauru",
+    "official_name_ar": "ناورو",
+    "official_name_en": "Nauru",
+    "zipcode": "674",
+    "ISO3166Alpha2": "NR",
+    "countryCode": "NRU",
+    "ISO3166Numeric": "520",
+    "ArabicFormal": "جمهورية ناورو"
+  },
+  {
+    "name": "Nepal",
+    "official_name_ar": "نيبال",
+    "official_name_en": "Nepal",
+    "zipcode": "977",
+    "ISO3166Alpha2": "NP",
+    "countryCode": "NPL",
+    "ISO3166Numeric": "524",
+    "ArabicFormal": "جمهورية نيبال الديمقراطية الاتحادية"
+  },
+  {
+    "name": "Netherlands",
+    "official_name_ar": "هولندا",
+    "official_name_en": "Netherlands",
+    "zipcode": "31",
+    "ISO3166Alpha2": "NL",
+    "countryCode": "NLD",
+    "ISO3166Numeric": "528",
+    "ArabicFormal": "مملكة هولندا"
+  },
+  {
+    "name": "New Caledonia",
+    "official_name_ar": "كاليدونيا الجديدة",
+    "official_name_en": "New Caledonia",
+    "zipcode": "687",
+    "ISO3166Alpha2": "NC",
+    "countryCode": "NCL",
+    "ISO3166Numeric": "540",
+    "ArabicFormal": "New Caledonia"
+  },
+  {
+    "name": "New Zealand",
+    "official_name_ar": "نيوزيلندا",
+    "official_name_en": "New Zealand",
+    "zipcode": "64",
+    "ISO3166Alpha2": "NZ",
+    "countryCode": "NZL",
+    "ISO3166Numeric": "554",
+    "ArabicFormal": "نيوزيلندا"
+  },
+  {
+    "name": "Nicaragua",
+    "official_name_ar": "نيكاراغوا",
+    "official_name_en": "Nicaragua",
+    "zipcode": "505",
+    "ISO3166Alpha2": "NI",
+    "countryCode": "NIC",
+    "ISO3166Numeric": "558",
+    "ArabicFormal": "جمهورية نيكاراغوا"
+  },
+  {
+    "name": "Niger",
+    "official_name_ar": "النيجر",
+    "official_name_en": "Niger",
+    "zipcode": "227",
+    "ISO3166Alpha2": "NE",
+    "countryCode": "NER",
+    "ISO3166Numeric": "562",
+    "ArabicFormal": "جمهورية النيجر"
+  },
+  {
+    "name": "Nigeria",
+    "official_name_ar": "نيجيريا",
+    "official_name_en": "Nigeria",
+    "zipcode": "234",
+    "ISO3166Alpha2": "NG",
+    "countryCode": "NGA",
+    "ISO3166Numeric": "566",
+    "ArabicFormal": "جمهورية نيجيريا الاتحادية"
+  },
+  {
+    "name": "Niue",
+    "official_name_ar": "نيوي",
+    "official_name_en": "Niue",
+    "zipcode": "683",
+    "ISO3166Alpha2": "NU",
+    "countryCode": "NIU",
+    "ISO3166Numeric": "570",
+    "ArabicFormal": "نيوي"
+  },
+  {
+    "name": "Norfolk Island",
+    "official_name_ar": "جزيرة نورفلك",
+    "official_name_en": "Norfolk Island",
+    "zipcode": "672",
+    "ISO3166Alpha2": "NF",
+    "countryCode": "NFK",
+    "ISO3166Numeric": "574",
+    "ArabicFormal": "Norfolk Island"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "official_name_ar": "جزر ماريانا الشمالية",
+    "official_name_en": "Northern Mariana Islands",
+    "zipcode": "1-670",
+    "ISO3166Alpha2": "MP",
+    "countryCode": "MNP",
+    "ISO3166Numeric": "580",
+    "ArabicFormal": "Northern Mariana Islands"
+  },
+  {
+    "name": "Norway",
+    "official_name_ar": "النرويج",
+    "official_name_en": "Norway",
+    "zipcode": "47",
+    "ISO3166Alpha2": "NO",
+    "countryCode": "NOR",
+    "ISO3166Numeric": "578",
+    "ArabicFormal": "مملكة النرويج"
+  },
+  {
+    "name": "Oman",
+    "official_name_ar": "عمان",
+    "official_name_en": "Oman",
+    "zipcode": "968",
+    "ISO3166Alpha2": "OM",
+    "countryCode": "OMN",
+    "ISO3166Numeric": "512",
+    "ArabicFormal": "سلطنة عمان"
+  },
+  {
+    "name": "Pakistan",
+    "official_name_ar": "باكستان",
+    "official_name_en": "Pakistan",
+    "zipcode": "92",
+    "ISO3166Alpha2": "PK",
+    "countryCode": "PAK",
+    "ISO3166Numeric": "586",
+    "ArabicFormal": "جمهورية باكستان الإسلامية"
+  },
+  {
+    "name": "Palau",
+    "official_name_ar": "بالاو",
+    "official_name_en": "Palau",
+    "zipcode": "680",
+    "ISO3166Alpha2": "PW",
+    "countryCode": "PLW",
+    "ISO3166Numeric": "585",
+    "ArabicFormal": "جمهورية بالاو"
+  },
+  {
+    "name": "Panama",
+    "official_name_ar": "بنما",
+    "official_name_en": "Panama",
+    "zipcode": "507",
+    "ISO3166Alpha2": "PA",
+    "countryCode": "PAN",
+    "ISO3166Numeric": "591",
+    "ArabicFormal": "جمهورية بنما"
+  },
+  {
+    "name": "Papua New Guinea",
+    "official_name_ar": "بابوا غينيا الجديدة",
+    "official_name_en": "Papua New Guinea",
+    "zipcode": "675",
+    "ISO3166Alpha2": "PG",
+    "countryCode": "PNG",
+    "ISO3166Numeric": "598",
+    "ArabicFormal": "دولة بابوا غينيا الجديدة المستقلة"
+  },
+  {
+    "name": "Paraguay",
+    "official_name_ar": "باراغواي",
+    "official_name_en": "Paraguay",
+    "zipcode": "595",
+    "ISO3166Alpha2": "PY",
+    "countryCode": "PRY",
+    "ISO3166Numeric": "600",
+    "ArabicFormal": "جمهورية باراغواي"
+  },
+  {
+    "name": "Peru",
+    "official_name_ar": "بيرو",
+    "official_name_en": "Peru",
+    "zipcode": "51",
+    "ISO3166Alpha2": "PE",
+    "countryCode": "PER",
+    "ISO3166Numeric": "604",
+    "ArabicFormal": "جمهورية بيرو"
+  },
+  {
+    "name": "Philippines",
+    "official_name_ar": "الفلبين",
+    "official_name_en": "Philippines",
+    "zipcode": "63",
+    "ISO3166Alpha2": "PH",
+    "countryCode": "PHL",
+    "ISO3166Numeric": "608",
+    "ArabicFormal": "جمهورية الفلبين"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "official_name_ar": "بيتكيرن",
+    "official_name_en": "Pitcairn",
+    "zipcode": "870",
+    "ISO3166Alpha2": "PN",
+    "countryCode": "PCN",
+    "ISO3166Numeric": "612",
+    "ArabicFormal": "Pitcairn"
+  },
+  {
+    "name": "Poland",
+    "official_name_ar": "بولندا",
+    "official_name_en": "Poland",
+    "zipcode": "48",
+    "ISO3166Alpha2": "PL",
+    "countryCode": "POL",
+    "ISO3166Numeric": "616",
+    "ArabicFormal": "جمهورية بولندا"
+  },
+  {
+    "name": "Portugal",
+    "official_name_ar": "البرتغال",
+    "official_name_en": "Portugal",
+    "zipcode": "351",
+    "ISO3166Alpha2": "PT",
+    "countryCode": "PRT",
+    "ISO3166Numeric": "620",
+    "ArabicFormal": "جمهورية البرتغال"
+  },
+  {
+    "name": "Puerto Rico",
+    "official_name_ar": "بورتوريكو",
+    "official_name_en": "Puerto Rico",
+    "zipcode": "1",
+    "ISO3166Alpha2": "PR",
+    "countryCode": "PRI",
+    "ISO3166Numeric": "630",
+    "ArabicFormal": "Puerto Rico"
+  },
+  {
+    "name": "Qatar",
+    "official_name_ar": "قطر",
+    "official_name_en": "Qatar",
+    "zipcode": "974",
+    "ISO3166Alpha2": "QA",
+    "countryCode": "QAT",
+    "ISO3166Numeric": "634",
+    "ArabicFormal": "دولة قطر"
+  },
+  {
+    "name": "South Korea",
+    "official_name_ar": "جمهورية كوريا",
+    "official_name_en": "Republic of Korea",
+    "zipcode": "82",
+    "ISO3166Alpha2": "KR",
+    "countryCode": "KOR",
+    "ISO3166Numeric": "410",
+    "ArabicFormal": "جمهورية كوريا"
+  },
+  {
+    "name": "Moldova",
+    "official_name_ar": "جمهورية مولدوفا",
+    "official_name_en": "Republic of Moldova",
+    "zipcode": "373",
+    "ISO3166Alpha2": "MD",
+    "countryCode": "MDA",
+    "ISO3166Numeric": "498",
+    "ArabicFormal": "جمهورية مولدوفا"
+  },
+  {
+    "name": "Romania",
+    "official_name_ar": "رومانيا",
+    "official_name_en": "Romania",
+    "zipcode": "40",
+    "ISO3166Alpha2": "RO",
+    "countryCode": "ROU",
+    "ISO3166Numeric": "642",
+    "ArabicFormal": "رومانيا"
+  },
+  {
+    "name": "Russia",
+    "official_name_ar": "الاتحاد الروسي",
+    "official_name_en": "Russian Federation",
+    "zipcode": "7",
+    "ISO3166Alpha2": "RU",
+    "countryCode": "RUS",
+    "ISO3166Numeric": "643",
+    "ArabicFormal": "الاتحاد الروسي"
+  },
+  {
+    "name": "Rwanda",
+    "official_name_ar": "رواندا",
+    "official_name_en": "Rwanda",
+    "zipcode": "250",
+    "ISO3166Alpha2": "RW",
+    "countryCode": "RWA",
+    "ISO3166Numeric": "646",
+    "ArabicFormal": "جمهورية رواندا"
+  },
+  {
+    "name": "Réunion",
+    "official_name_ar": "ريونيون",
+    "official_name_en": "Réunion",
+    "zipcode": "262",
+    "ISO3166Alpha2": "RE",
+    "countryCode": "REU",
+    "ISO3166Numeric": "638",
+    "ArabicFormal": "Réunion"
+  },
+  {
+    "name": "St. Barthélemy",
+    "official_name_ar": "سان بارتليمي",
+    "official_name_en": "Saint Barthélemy",
+    "zipcode": "590",
+    "ISO3166Alpha2": "BL",
+    "countryCode": "BLM",
+    "ISO3166Numeric": "652",
+    "ArabicFormal": "Saint Barthélemy"
+  },
+  {
+    "name": "St. Helena",
+    "official_name_ar": "سانت هيلانة",
+    "official_name_en": "Saint Helena",
+    "zipcode": "290",
+    "ISO3166Alpha2": "SH",
+    "countryCode": "SHN",
+    "ISO3166Numeric": "654",
+    "ArabicFormal": "Saint Helena"
+  },
+  {
+    "name": "St. Kitts & Nevis",
+    "official_name_ar": "سانت كيتس ونيفس",
+    "official_name_en": "Saint Kitts and Nevis",
+    "zipcode": "1-869",
+    "ISO3166Alpha2": "KN",
+    "countryCode": "KNA",
+    "ISO3166Numeric": "659",
+    "ArabicFormal": "سانت كيتس ونيفس"
+  },
+  {
+    "name": "St. Lucia",
+    "official_name_ar": "سانت لوسيا",
+    "official_name_en": "Saint Lucia",
+    "zipcode": "1-758",
+    "ISO3166Alpha2": "LC",
+    "countryCode": "LCA",
+    "ISO3166Numeric": "662",
+    "ArabicFormal": "سانت لوسيا"
+  },
+  {
+    "name": "St. Martin",
+    "official_name_ar": "سان مارتن",
+    "official_name_en": "Saint Martin (French Part)",
+    "zipcode": "590",
+    "ISO3166Alpha2": "MF",
+    "countryCode": "MAF",
+    "ISO3166Numeric": "663",
+    "ArabicFormal": "Saint Martin (French Part)"
+  },
+  {
+    "name": "St. Pierre & Miquelon",
+    "official_name_ar": "سان بيار وميكلون",
+    "official_name_en": "Saint Pierre and Miquelon",
+    "zipcode": "508",
+    "ISO3166Alpha2": "PM",
+    "countryCode": "SPM",
+    "ISO3166Numeric": "666",
+    "ArabicFormal": "Saint Pierre and Miquelon"
+  },
+  {
+    "name": "St. Vincent & Grenadines",
+    "official_name_ar": "سانت فنسنت وجزر غرينادين",
+    "official_name_en": "Saint Vincent and the Grenadines",
+    "zipcode": "1-784",
+    "ISO3166Alpha2": "VC",
+    "countryCode": "VCT",
+    "ISO3166Numeric": "670",
+    "ArabicFormal": "سانت فنسنت وجزر غرينادين"
+  },
+  {
+    "name": "Samoa",
+    "official_name_ar": "ساموا",
+    "official_name_en": "Samoa",
+    "zipcode": "685",
+    "ISO3166Alpha2": "WS",
+    "countryCode": "WSM",
+    "ISO3166Numeric": "882",
+    "ArabicFormal": "دولة ساموا المستقلة"
+  },
+  {
+    "name": "San Marino",
+    "official_name_ar": "سان مارينو",
+    "official_name_en": "San Marino",
+    "zipcode": "378",
+    "ISO3166Alpha2": "SM",
+    "countryCode": "SMR",
+    "ISO3166Numeric": "674",
+    "ArabicFormal": "جمهورية سان مارينو"
+  },
+  {
+    "name": "São Tomé & Príncipe",
+    "official_name_ar": "سان تومي وبرينسيبي",
+    "official_name_en": "Sao Tome and Principe",
+    "zipcode": "239",
+    "ISO3166Alpha2": "ST",
+    "countryCode": "STP",
+    "ISO3166Numeric": "678",
+    "ArabicFormal": "جمهورية سان تومي وبرينسيبي الديمقراطية"
+  },
+  {
+    "name": "Sark",
+    "official_name_ar": "سارك",
+    "official_name_en": "Sark",
+    "zipcode": null,
+    "ISO3166Alpha2": null,
+    "countryCode": "Sark",
+    "ISO3166Numeric": null,
+    "ArabicFormal": "Sark"
+  },
+  {
+    "name": "Saudi Arabia",
+    "official_name_ar": "المملكة العربية السعودية",
+    "official_name_en": "Saudi Arabia",
+    "zipcode": "966",
+    "ISO3166Alpha2": "SA",
+    "countryCode": "SAU",
+    "ISO3166Numeric": "682",
+    "ArabicFormal": "المملكة العربية السعودية"
+  },
+  {
+    "name": "Senegal",
+    "official_name_ar": "السنغال",
+    "official_name_en": "Senegal",
+    "zipcode": "221",
+    "ISO3166Alpha2": "SN",
+    "countryCode": "SEN",
+    "ISO3166Numeric": "686",
+    "ArabicFormal": "جمهورية السنغال"
+  },
+  {
+    "name": "Serbia",
+    "official_name_ar": "صربيا",
+    "official_name_en": "Serbia",
+    "zipcode": "381",
+    "ISO3166Alpha2": "RS",
+    "countryCode": "SRB",
+    "ISO3166Numeric": "688",
+    "ArabicFormal": "جمهورية صربيا"
+  },
+  {
+    "name": "Seychelles",
+    "official_name_ar": "سيشيل",
+    "official_name_en": "Seychelles",
+    "zipcode": "248",
+    "ISO3166Alpha2": "SC",
+    "countryCode": "SYC",
+    "ISO3166Numeric": "690",
+    "ArabicFormal": "جمهورية سيشيل"
+  },
+  {
+    "name": "Sierra Leone",
+    "official_name_ar": "سيراليون",
+    "official_name_en": "Sierra Leone",
+    "zipcode": "232",
+    "ISO3166Alpha2": "SL",
+    "countryCode": "SLE",
+    "ISO3166Numeric": "694",
+    "ArabicFormal": "جمهورية سيراليون"
+  },
+  {
+    "name": "Singapore",
+    "official_name_ar": "سنغافورة",
+    "official_name_en": "Singapore",
+    "zipcode": "65",
+    "ISO3166Alpha2": "SG",
+    "countryCode": "SGP",
+    "ISO3166Numeric": "702",
+    "ArabicFormal": "جمهورية سنغافورة"
+  },
+  {
+    "name": "Sint Maarten",
+    "official_name_ar": "سانت مارتن",
+    "official_name_en": "Sint Maarten (Dutch part)",
+    "zipcode": "1-721",
+    "ISO3166Alpha2": "SX",
+    "countryCode": "SXM",
+    "ISO3166Numeric": "534",
+    "ArabicFormal": "Sint Maarten (Dutch part)"
+  },
+  {
+    "name": "Slovakia",
+    "official_name_ar": "سلوفاكيا",
+    "official_name_en": "Slovakia",
+    "zipcode": "421",
+    "ISO3166Alpha2": "SK",
+    "countryCode": "SVK",
+    "ISO3166Numeric": "703",
+    "ArabicFormal": "الجمهورية السلوفاكية"
+  },
+  {
+    "name": "Slovenia",
+    "official_name_ar": "سلوفينيا",
+    "official_name_en": "Slovenia",
+    "zipcode": "386",
+    "ISO3166Alpha2": "SI",
+    "countryCode": "SVN",
+    "ISO3166Numeric": "705",
+    "ArabicFormal": "جمهورية سلوفينيا"
+  },
+  {
+    "name": "Solomon Islands",
+    "official_name_ar": "جزر سليمان",
+    "official_name_en": "Solomon Islands",
+    "zipcode": "677",
+    "ISO3166Alpha2": "SB",
+    "countryCode": "SLB",
+    "ISO3166Numeric": "090",
+    "ArabicFormal": "جزر سليمان"
+  },
+  {
+    "name": "Somalia",
+    "official_name_ar": "الصومال",
+    "official_name_en": "Somalia",
+    "zipcode": "252",
+    "ISO3166Alpha2": "SO",
+    "countryCode": "SOM",
+    "ISO3166Numeric": "706",
+    "ArabicFormal": "جمهورية الصومال الاتحادية"
+  },
+  {
+    "name": "South Africa",
+    "official_name_ar": "جنوب أفريقيا",
+    "official_name_en": "South Africa",
+    "zipcode": "27",
+    "ISO3166Alpha2": "ZA",
+    "countryCode": "ZAF",
+    "ISO3166Numeric": "710",
+    "ArabicFormal": "جمهورية جنوب أفريقيا"
+  },
+  {
+    "name": "South Georgia & South Sandwich Islands",
+    "official_name_ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+    "official_name_en": "South Georgia and the South Sandwich Islands",
+    "zipcode": "500",
+    "ISO3166Alpha2": "GS",
+    "countryCode": "SGS",
+    "ISO3166Numeric": "239",
+    "ArabicFormal": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "name": "South Sudan",
+    "official_name_ar": "جنوب السودان",
+    "official_name_en": "South Sudan",
+    "zipcode": "211",
+    "ISO3166Alpha2": "SS",
+    "countryCode": "SSD",
+    "ISO3166Numeric": "728",
+    "ArabicFormal": "جمهورية جنوب السودان"
+  },
+  {
+    "name": "Spain",
+    "official_name_ar": "إسبانيا",
+    "official_name_en": "Spain",
+    "zipcode": "34",
+    "ISO3166Alpha2": "ES",
+    "countryCode": "ESP",
+    "ISO3166Numeric": "724",
+    "ArabicFormal": "مملكة إسبانيا"
+  },
+  {
+    "name": "Sri Lanka",
+    "official_name_ar": "سري لانكا",
+    "official_name_en": "Sri Lanka",
+    "zipcode": "94",
+    "ISO3166Alpha2": "LK",
+    "countryCode": "LKA",
+    "ISO3166Numeric": "144",
+    "ArabicFormal": "جمهورية سري لانكا الاشتراكية الديمقراطية"
+  },
+  {
+    "name": "Palestine",
+    "official_name_ar": "دولة فلسطين",
+    "official_name_en": "State of Palestine",
+    "zipcode": "970",
+    "ISO3166Alpha2": "PS",
+    "countryCode": "PSE",
+    "ISO3166Numeric": "275",
+    "ArabicFormal": "دولة فلسطين"
+  },
+  {
+    "name": "Sudan",
+    "official_name_ar": "السودان",
+    "official_name_en": "Sudan",
+    "zipcode": "249",
+    "ISO3166Alpha2": "SD",
+    "countryCode": "SDN",
+    "ISO3166Numeric": "729",
+    "ArabicFormal": "جمهورية السودان"
+  },
+  {
+    "name": "Suriname",
+    "official_name_ar": "سورينام",
+    "official_name_en": "Suriname",
+    "zipcode": "597",
+    "ISO3166Alpha2": "SR",
+    "countryCode": "SUR",
+    "ISO3166Numeric": "740",
+    "ArabicFormal": "جمهورية سورينام"
+  },
+  {
+    "name": "Svalbard & Jan Mayen",
+    "official_name_ar": "جزر سفالبارد وجان ماين",
+    "official_name_en": "Svalbard and Jan Mayen Islands",
+    "zipcode": "47",
+    "ISO3166Alpha2": "SJ",
+    "countryCode": "SJM",
+    "ISO3166Numeric": "744",
+    "ArabicFormal": "Svalbard and Jan Mayen Islands"
+  },
+  {
+    "name": "Swaziland",
+    "official_name_ar": "سوازيلند",
+    "official_name_en": "Swaziland",
+    "zipcode": "268",
+    "ISO3166Alpha2": "SZ",
+    "countryCode": "SWZ",
+    "ISO3166Numeric": "748",
+    "ArabicFormal": "مملكة سوازيلند"
+  },
+  {
+    "name": "Sweden",
+    "official_name_ar": "السويد",
+    "official_name_en": "Sweden",
+    "zipcode": "46",
+    "ISO3166Alpha2": "SE",
+    "countryCode": "SWE",
+    "ISO3166Numeric": "752",
+    "ArabicFormal": "مملكة السويد"
+  },
+  {
+    "name": "Switzerland",
+    "official_name_ar": "سويسرا",
+    "official_name_en": "Switzerland",
+    "zipcode": "41",
+    "ISO3166Alpha2": "CH",
+    "countryCode": "CHE",
+    "ISO3166Numeric": "756",
+    "ArabicFormal": "الاتحاد السويسري"
+  },
+  {
+    "name": "Syria",
+    "official_name_ar": "الجمهورية العربية السورية",
+    "official_name_en": "Syrian Arab Republic",
+    "zipcode": "963",
+    "ISO3166Alpha2": "SY",
+    "countryCode": "SYR",
+    "ISO3166Numeric": "760",
+    "ArabicFormal": "الجمهورية العربية السورية"
+  },
+  {
+    "name": "Tajikistan",
+    "official_name_ar": "طاجيكستان",
+    "official_name_en": "Tajikistan",
+    "zipcode": "992",
+    "ISO3166Alpha2": "TJ",
+    "countryCode": "TJK",
+    "ISO3166Numeric": "762",
+    "ArabicFormal": "جمهورية طاجيكستان"
+  },
+  {
+    "name": "Thailand",
+    "official_name_ar": "تايلند",
+    "official_name_en": "Thailand",
+    "zipcode": "66",
+    "ISO3166Alpha2": "TH",
+    "countryCode": "THA",
+    "ISO3166Numeric": "764",
+    "ArabicFormal": "مملكة تايلند"
+  },
+  {
+    "name": "Macedonia",
+    "official_name_ar": "جمهورية مقدونيا اليوغوسلافية سابقاً",
+    "official_name_en": "The former Yugoslav Republic of Macedonia",
+    "zipcode": "389",
+    "ISO3166Alpha2": "MK",
+    "countryCode": "MKD",
+    "ISO3166Numeric": "807",
+    "ArabicFormal": "جمهورية مقدونيا اليوغوسلافية سابقاً"
+  },
+  {
+    "name": "Timor-Leste",
+    "official_name_ar": "تيمور- ليشتي",
+    "official_name_en": "Timor-Leste",
+    "zipcode": "670",
+    "ISO3166Alpha2": "TL",
+    "countryCode": "TLS",
+    "ISO3166Numeric": "626",
+    "ArabicFormal": "جمهورية تيمور - ليشتي الديمقراطية"
+  },
+  {
+    "name": "Togo",
+    "official_name_ar": "توغو",
+    "official_name_en": "Togo",
+    "zipcode": "228",
+    "ISO3166Alpha2": "TG",
+    "countryCode": "TGO",
+    "ISO3166Numeric": "768",
+    "ArabicFormal": "جمهورية توغو"
+  },
+  {
+    "name": "Tokelau",
+    "official_name_ar": "توكيلاو",
+    "official_name_en": "Tokelau",
+    "zipcode": "690",
+    "ISO3166Alpha2": "TK",
+    "countryCode": "TKL",
+    "ISO3166Numeric": "772",
+    "ArabicFormal": "Tokelau"
+  },
+  {
+    "name": "Tonga",
+    "official_name_ar": "تونغا",
+    "official_name_en": "Tonga",
+    "zipcode": "676",
+    "ISO3166Alpha2": "TO",
+    "countryCode": "TON",
+    "ISO3166Numeric": "776",
+    "ArabicFormal": "مملكة تونغا"
+  },
+  {
+    "name": "Trinidad & Tobago",
+    "official_name_ar": "ترينيداد وتوباغو",
+    "official_name_en": "Trinidad and Tobago",
+    "zipcode": "1-868",
+    "ISO3166Alpha2": "TT",
+    "countryCode": "TTO",
+    "ISO3166Numeric": "780",
+    "ArabicFormal": "جمهورية ترينيداد وتوباغو"
+  },
+  {
+    "name": "Tunisia",
+    "official_name_ar": "تونس",
+    "official_name_en": "Tunisia",
+    "zipcode": "216",
+    "ISO3166Alpha2": "TN",
+    "countryCode": "TUN",
+    "ISO3166Numeric": "788",
+    "ArabicFormal": "الجمهورية التونسية"
+  },
+  {
+    "name": "Turkey",
+    "official_name_ar": "تركيا",
+    "official_name_en": "Turkey",
+    "zipcode": "90",
+    "ISO3166Alpha2": "TR",
+    "countryCode": "TUR",
+    "ISO3166Numeric": "792",
+    "ArabicFormal": "جمهورية تركيا"
+  },
+  {
+    "name": "Turkmenistan",
+    "official_name_ar": "تركمانستان",
+    "official_name_en": "Turkmenistan",
+    "zipcode": "993",
+    "ISO3166Alpha2": "TM",
+    "countryCode": "TKM",
+    "ISO3166Numeric": "795",
+    "ArabicFormal": "تركمانستان"
+  },
+  {
+    "name": "Turks & Caicos Islands",
+    "official_name_ar": "جزر تركس وكايكوس",
+    "official_name_en": "Turks and Caicos Islands",
+    "zipcode": "1-649",
+    "ISO3166Alpha2": "TC",
+    "countryCode": "TCA",
+    "ISO3166Numeric": "796",
+    "ArabicFormal": "Turks and Caicos Islands"
+  },
+  {
+    "name": "Tuvalu",
+    "official_name_ar": "توفالو",
+    "official_name_en": "Tuvalu",
+    "zipcode": "688",
+    "ISO3166Alpha2": "TV",
+    "countryCode": "TUV",
+    "ISO3166Numeric": "798",
+    "ArabicFormal": "توفالو"
+  },
+  {
+    "name": "Uganda",
+    "official_name_ar": "أوغندا",
+    "official_name_en": "Uganda",
+    "zipcode": "256",
+    "ISO3166Alpha2": "UG",
+    "countryCode": "UGA",
+    "ISO3166Numeric": "800",
+    "ArabicFormal": "جمهورية أوغندا"
+  },
+  {
+    "name": "Ukraine",
+    "official_name_ar": "أوكرانيا",
+    "official_name_en": "Ukraine",
+    "zipcode": "380",
+    "ISO3166Alpha2": "UA",
+    "countryCode": "UKR",
+    "ISO3166Numeric": "804",
+    "ArabicFormal": "أوكرانيا"
+  },
+  {
+    "name": "United Arab Emirates",
+    "official_name_ar": "الإمارات العربية المتحدة",
+    "official_name_en": "United Arab Emirates",
+    "zipcode": "971",
+    "ISO3166Alpha2": "AE",
+    "countryCode": "ARE",
+    "ISO3166Numeric": "784",
+    "ArabicFormal": "الإمارات العربية المتحدة"
+  },
+  {
+    "name": "UK",
+    "official_name_ar": "المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية",
+    "official_name_en": "United Kingdom of Great Britain and Northern Ireland",
+    "zipcode": "44",
+    "ISO3166Alpha2": "GB",
+    "countryCode": "GBR",
+    "ISO3166Numeric": "826",
+    "ArabicFormal": "المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية"
+  },
+  {
+    "name": "Tanzania",
+    "official_name_ar": "جمهورية تنزانيا المتحدة",
+    "official_name_en": "United Republic of Tanzania",
+    "zipcode": "255",
+    "ISO3166Alpha2": "TZ",
+    "countryCode": "TZA",
+    "ISO3166Numeric": "834",
+    "ArabicFormal": "جمهورية تنزانيا المتحدة"
+  },
+  {
+    "name": "U.S. Outlying Islands",
+    "official_name_ar": "نائية التابعة للولايات المتحدة",
+    "official_name_en": "United States Minor Outlying Islands",
+    "zipcode": null,
+    "ISO3166Alpha2": "UM",
+    "countryCode": "UMI",
+    "ISO3166Numeric": "581",
+    "ArabicFormal": "United States Minor Outlying Islands"
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "official_name_ar": "جزر فرجن التابعة للولايات المتحدة",
+    "official_name_en": "United States Virgin Islands",
+    "zipcode": "1-340",
+    "ISO3166Alpha2": "VI",
+    "countryCode": "VIR",
+    "ISO3166Numeric": "850",
+    "ArabicFormal": "United States Virgin Islands"
+  },
+  {
+    "name": "US",
+    "official_name_ar": "الولايات المتحدة الأمريكية",
+    "official_name_en": "United States of America",
+    "zipcode": "1",
+    "ISO3166Alpha2": "US",
+    "countryCode": "USA",
+    "ISO3166Numeric": "840",
+    "ArabicFormal": "الولايات المتحدة الأمريكية"
+  },
+  {
+    "name": "Uruguay",
+    "official_name_ar": "أوروغواي",
+    "official_name_en": "Uruguay",
+    "zipcode": "598",
+    "ISO3166Alpha2": "UY",
+    "countryCode": "URY",
+    "ISO3166Numeric": "858",
+    "ArabicFormal": "جمهورية أوروغواي الشرقية"
+  },
+  {
+    "name": "Uzbekistan",
+    "official_name_ar": "أوزبكستان",
+    "official_name_en": "Uzbekistan",
+    "zipcode": "998",
+    "ISO3166Alpha2": "UZ",
+    "countryCode": "UZB",
+    "ISO3166Numeric": "860",
+    "ArabicFormal": "جمهورية أوزبكستان"
+  },
+  {
+    "name": "Vanuatu",
+    "official_name_ar": "فانواتو",
+    "official_name_en": "Vanuatu",
+    "zipcode": "678",
+    "ISO3166Alpha2": "VU",
+    "countryCode": "VUT",
+    "ISO3166Numeric": "548",
+    "ArabicFormal": "جمهورية فانواتو"
+  },
+  {
+    "name": "Venezuela",
+    "official_name_ar": "فنزويلا (جمهورية - البوليفارية)",
+    "official_name_en": "Venezuela (Bolivarian Republic of)",
+    "zipcode": "58",
+    "ISO3166Alpha2": "VE",
+    "countryCode": "VEN",
+    "ISO3166Numeric": "862",
+    "ArabicFormal": "جمهورية فنزويلا البوليفارية"
+  },
+  {
+    "name": "Vietnam",
+    "official_name_ar": "فييت نام",
+    "official_name_en": "Viet Nam",
+    "zipcode": "84",
+    "ISO3166Alpha2": "VN",
+    "countryCode": "VNM",
+    "ISO3166Numeric": "704",
+    "ArabicFormal": "جمهورية فييت نام الاشتراكية"
+  },
+  {
+    "name": "Wallis & Futuna",
+    "official_name_ar": "جزر واليس وفوتونا",
+    "official_name_en": "Wallis and Futuna Islands",
+    "zipcode": "681",
+    "ISO3166Alpha2": "WF",
+    "countryCode": "WLF",
+    "ISO3166Numeric": "876",
+    "ArabicFormal": "Wallis and Futuna Islands"
+  },
+  {
+    "name": "Western Sahara",
+    "official_name_ar": "الصحراء الغربية",
+    "official_name_en": "Western Sahara",
+    "zipcode": "212",
+    "ISO3166Alpha2": "EH",
+    "countryCode": "ESH",
+    "ISO3166Numeric": "732",
+    "ArabicFormal": "Western Sahara"
+  },
+  {
+    "name": "Yemen",
+    "official_name_ar": "اليمن",
+    "official_name_en": "Yemen",
+    "zipcode": "967",
+    "ISO3166Alpha2": "YE",
+    "countryCode": "YEM",
+    "ISO3166Numeric": "887",
+    "ArabicFormal": "الجمهورية اليمنية"
+  },
+  {
+    "name": "Zambia",
+    "official_name_ar": "زامبيا",
+    "official_name_en": "Zambia",
+    "zipcode": "260",
+    "ISO3166Alpha2": "ZM",
+    "countryCode": "ZMB",
+    "ISO3166Numeric": "894",
+    "ArabicFormal": "جمهورية زامبيا"
+  },
+  {
+    "name": "Zimbabwe",
+    "official_name_ar": "زمبابوي",
+    "official_name_en": "Zimbabwe",
+    "zipcode": "263",
+    "ISO3166Alpha2": "ZW",
+    "countryCode": "ZWE",
+    "ISO3166Numeric": "716",
+    "ArabicFormal": "جمهورية زمبابوي"
+  },
+  {
+    "name": "Åland Islands",
+    "official_name_ar": "جزر ألاند",
+    "official_name_en": "Åland Islands",
+    "zipcode": "358",
+    "ISO3166Alpha2": "AX",
+    "countryCode": "ALA",
+    "ISO3166Numeric": "248",
+    "ArabicFormal": "Åland Islands"
+  }
+]
